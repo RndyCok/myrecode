@@ -1,22 +1,15 @@
-import chalk from 'chalk'
+Iniimport chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import { watchFile, unwatchFile } from 'fs'
 import moment from 'moment-timezone'
 
 global.owner = [
-  ['+62 838-9701-1'],
-  ['+62 813-8963-1812'],
-  ['+62 813-8474-7662'],
-  ['6283141795808'],
-  ['6283897011555','RndyDeployer',true],
-  ['+62 813-8963-1812', 'Peli', true],
-  ['+62 813-8474-7662', 'Peler', true],
-  ['+62 812-8337-0531', 'Waifunya Teposs', true],
+  ['6283897011555','RndyDeployer',true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.lolkey = 'Papah-Chan'
+global.lolkey = 'Sad-Bot'
 global.xkey = 'YourApikey'
 global.APIs = { // API Prefix
   // name: 'https://website'
